@@ -1,0 +1,41 @@
+#one {
+  border-radius: 50px;
+  background: linear-gradient(145deg, #328578, #3c9e8e);
+  box-shadow: 19px 19px 37px #296e62, -19px -19px 37px #47baa8;
+  position: fixed;
+  left: 40%;
+  width: 100px;
+}
+#two {
+  border-radius: 50px;
+  background: linear-gradient(145deg, #543285, #643c9e);
+  box-shadow: 19px 19px 37px #45296e, -19px -19px 37px #7547ba;
+  position: fixed;
+  left: 40%;
+  width: 100px;
+}
+
+#three {
+  border-radius: 50px;
+  background: linear-gradient(145deg, #853232, #9e3c3c);
+  box-shadow: 19px 19px 37px #6e2929, -19px -19px 37px #ba4747;
+  width: 100px;
+  position: fixed;
+  left: 40%;
+}
+#four {
+  border-radius: 50px;
+  background: linear-gradient(145deg, #afaa20, #d0ca27);
+  box-shadow: 19px 19px 37px #908c1b, -19px -19px 37px #f4ee2d;
+  width: 100px;
+  position: fixed;
+  left: 40%;
+}
+#five {
+  border-radius: 50px;
+  background: linear-gradient(145deg, #203caf, #2748d0);
+  box-shadow: 19px 19px 37px #1b3290, -19px -19px 37px #2d54f4;
+  width: 100px;
+  position: fixed;
+  left: 40%;
+}
